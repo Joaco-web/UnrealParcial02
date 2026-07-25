@@ -1,0 +1,20 @@
+# Archivos temporales y de compilación de Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+.vs/
+.idea/
+
+# Archivos de solución / proyecto de Visual Studio o IDE
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.cachefile
+*.VC.db
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
